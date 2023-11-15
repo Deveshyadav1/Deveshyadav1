@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Deveshyadav1
-- 👀 I’m interested in ... Problem Solving , Space Exploration , Designing Problem's Solution 
+- 👀 I’m interested in ... Problem Solving , Space Exploration , Web Development 
 - 🌱 I’m currently learning ... How To Code To Solve problem in diffrent manner 
 - 💞️ I’m looking to collaborate on ... Space Science , Rocketry , Cyber Security  
 - 📫 How to reach me ... Devesh11717653@gmail.com 
